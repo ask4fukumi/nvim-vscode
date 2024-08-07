@@ -1,0 +1,5 @@
+require("core.utils")
+require("core.opts")
+require("lazy_nvim")
+require("core.keymaps")
+require("core.autocmds")
